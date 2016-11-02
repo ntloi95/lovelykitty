@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_b7adf7f08d69a09b3f114d5055cf0a2f3f712941\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_80f8e0358f0ad19a361b714113fc533cb0005fe2\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_562b9fee50148ab646d4d5d134b3e3537b11d4a0\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_82ac23462cc546384af9b0d8ebb78d764867f8b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_2e59bd256af8b7aa869596489327bef5ed6b3c27\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_3b5641322a06851e5bd7861e8543be49193d6af7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_6abe1959f59dac243c920ddfb96115d2b6f6bc4f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_d3ecf2b6d61345a299dbf847274c07576dd7385f\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_d2b1224612abe4d634c89026d3bf3605b97660dd\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_ea1dca4dd48ab641e864bd4f72b5d7d6f9a7e7f3\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_c610f237dad6da210469067a809799d02bcfcd34\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_33f676645328f306c64301e84bfb617e8731f2bb\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_a32b685d2ef149387fb643a7dba886665b92983a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_4e24bea633c465a47219d32b4740b8bd98bdaf0e\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_d04ca53ef8d78f0d48176a1d359cbb42c9cd42b3\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_00fe87ddc4ccdcb61985718ca84a036ffb623195\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_4dc1554aaa508c7ed7cbe1afebe9b677a6804402\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_3d47137c5f39fd3faa0c9d8320b1af7cae8fa7ba\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_fc39f85275af3a0c80339d30e17b41eabfa9fa6a\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_aef5097a16a9310d8a71eb46c01d19651b99f2f2\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_72412d78d989c4d083bb5ae97227d80cee294ae1\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_a2dccb87d5deff1e273fb055a0be13a5d376193f\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_c5fba8a0a0715dfa7977ad3848c172ae3fab85c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_57018f56cf1cb14b28a9d80b206cc3a97530f4f7\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_d4825983df3f5fbe2e09138ac6d6e442f9d25d03\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_a755b1123da1e4320c30d182de547e60942f9f52\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_e1b380170e6313a3d9aa93f183778458ff409dce\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_a228a2354d6838cea95260417f685a313fb6c075\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_115905580d85005725aa7a0793a51ac872f90bd7\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_3091f44bb291c59d33d3fac941d527cff8e4e5ab\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_507b45ac2dbab4ba4b881a99d5b9cb9ff3a374cd\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_b0048979e29170c6bc3a95a7c80cc29d4ec49d4b\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_3c2c794f99b114a072cbabd912e653d075081918\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_946649e1bbc03a739e2ca98f8f149d9d54f1a1d3\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_16e753d9e172782a6e5be061ea6889c397f72633\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_fb9fbb11133231cc3ab27d4d397989b2bfa441b2\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.12.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="26645b518694e20a97fc19a6a3c3933c0cc41bc1">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.12.1_34837ec26482f1b49993e0aa2376ff4e175e581a\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_65b222ed2d78d3ed0591439fd6a866f1d37184b8\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_285b3e06d5723df7aea5c5f2e4842d78db2b1ec5\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_7403b2d16bf577d73a6a693fd975dc8e3241d28c\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_1ff7763b381d818bd6b867ca39f65f675398914e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_2d932ccee44b2937005be7f7373b039451e8308b\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_2adb65b51b1d291500deb4a5a5085c1e78e3260a\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_3cbc5695660a12b214170d11bfa80f55bb7c0287\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_0f2d5f54520eba5661ad403f9bb646517ac74ac1\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_682b8237984a4e1746e506fac2e12f881b0fec87\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_442532040c456087d96bb31bf3d529c00734bcaa\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_f96a6d000feb4ad378c2081a513cb77e21bbde63\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_017b83e9178e9d5e71d5587930089687c8bb1428\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_4bc295c2090e369202a78570cf98a9dae85a3073\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2fa749e802bf4dbad20f46a60dc6f038cdd79a5e">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d187a571711baf2c8b397adece88b7c91525fc53\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_0c0baee1a2095ff3fc27825d9d548ed394c96685\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_1e36b001560bf8eb55a3ac9cb442f951c584a818\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ThanhLoi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_079157a296559eaf943b0b54b8c32f4ec2aaf180\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_1c37b427ce32db2ea1c920a34ec4dfb24a284bb0\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_b2ea7b0b989e7a59509ea0fd83ac593f32b9b676\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_3e693911cd4243076e44eb0073ec06d7d0d319fd\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_61f761ef440a9fb563a4bb227fd63d760d995ab8\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_b53c60fcc19d4c84cc8421a95f3bcc39cf73ffd0\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_fe09f5ac013c019c38f45119d3542655f5bc8705\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_6c89f9d12eaf53b28cb0ebe6ce7a6faf79877597\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_3279ca89f67f58c83e770a1673ba4c23dc89fcc5\classes.dex" />
+    </item>
+    <item
+        jar="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1de34a7350fe280505d3f6f481e1fdc49bd0ce0b">
+        <dex dex="D:\A.SEMESTER6\finalproject-android\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_109803ec681f31554cf7531747d27cbda2cd72cf\classes.dex" />
+    </item>
+
+</items>
